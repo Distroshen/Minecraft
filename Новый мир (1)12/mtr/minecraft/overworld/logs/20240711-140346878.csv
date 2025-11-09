@@ -1,0 +1,16 @@
+Timestamp,Player Name,Player UUID,Class,ID,Name,Position,Change,Old Data,New Data
+"2024-07-11T14:09:54.078+03:00","roskildin","21ac7d5a-1abb-436d-8c2f-11461624d2c3","mtr.block.BlockNode","","","(-348, 88, 269)","DELETE","{
+  ""type"": ""AIRPLANE""
+}","{}"
+"2024-07-11T14:10:00.472+03:00","roskildin","21ac7d5a-1abb-436d-8c2f-11461624d2c3","mtr.block.BlockNode","","","(-347, 88, 268)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2024-07-11T14:10:09.524+03:00","roskildin","21ac7d5a-1abb-436d-8c2f-11461624d2c3","mtr.block.BlockNode","","","(-346, 88, 269)","DELETE","{
+  ""type"": ""CABLE_CAR""
+}","{}"
+"2024-07-11T14:10:10.326+03:00","roskildin","21ac7d5a-1abb-436d-8c2f-11461624d2c3","mtr.block.BlockNode","","","(-348, 88, 267)","DELETE","{
+  ""type"": ""CABLE_CAR""
+}","{}"
+"2024-07-11T14:10:10.775+03:00","roskildin","21ac7d5a-1abb-436d-8c2f-11461624d2c3","mtr.block.BlockNode","","","(-348, 88, 268)","DELETE","{
+  ""type"": ""CABLE_CAR""
+}","{}"

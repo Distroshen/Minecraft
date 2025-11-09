@@ -1,0 +1,203 @@
+{
+  "mcwfences:recipes/acacia": {
+    "criteria": {
+      "has_acacia": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/jungle": {
+    "criteria": {
+      "has_jungle": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-05-10 00:28:57 +0300"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/deepslate": {
+    "criteria": {
+      "has_deepslate": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/quartz": {
+    "criteria": {
+      "has_qq": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/oak": {
+    "criteria": {
+      "has_oak": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_color": {
+    "criteria": {
+      "has_red_balloon": "2025-05-10 00:20:22 +0300",
+      "has_black_balloon": "2025-05-10 00:20:22 +0300",
+      "has_lime_balloon": "2025-05-10 00:20:22 +0300",
+      "has_cyan_balloon": "2025-05-10 00:20:22 +0300",
+      "has_light_blue_balloon": "2025-05-10 00:20:22 +0300",
+      "has_gray_balloon": "2025-05-10 00:20:22 +0300",
+      "has_pink_balloon": "2025-05-10 00:20:22 +0300",
+      "has_light_gray_balloon": "2025-05-10 00:20:22 +0300",
+      "has_white_balloon": "2025-05-10 00:20:22 +0300",
+      "has_blue_balloon": "2025-05-10 00:20:22 +0300",
+      "has_yellow_balloon": "2025-05-10 00:20:22 +0300",
+      "has_purple_balloon": "2025-05-10 00:20:22 +0300",
+      "has_orange_balloon": "2025-05-10 00:20:22 +0300",
+      "has_brown_balloon": "2025-05-10 00:20:22 +0300",
+      "has_green_balloon": "2025-05-10 00:20:22 +0300",
+      "has_magenta_balloon": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/hedge": {
+    "criteria": {
+      "has_birch": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/end": {
+    "criteria": {
+      "has_end_brick": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/birch": {
+    "criteria": {
+      "has_birch": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/dark_oak": {
+    "criteria": {
+      "has_dark_oak": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/createbigcannons/delayed_impact_fuze": {
+    "criteria": {
+      "has_impact_fuze": "2025-05-10 00:54:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-05-10 00:24:05 +0300",
+      "minecraft:stony_shore": "2025-05-10 00:22:48 +0300",
+      "minecraft:forest": "2025-05-10 00:22:47 +0300",
+      "minecraft:ocean": "2025-05-10 00:23:45 +0300",
+      "minecraft:meadow": "2025-05-10 00:19:49 +0300",
+      "minecraft:plains": "2025-05-10 00:21:41 +0300"
+    },
+    "done": false
+  },
+  "mcwfences:recipes/mud_brick": {
+    "criteria": {
+      "has_qq": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_paper": {
+    "criteria": {
+      "has_paper": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_membrane": {
+    "criteria": {
+      "has_membrane": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-10 00:30:33 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/nether": {
+    "criteria": {
+      "has_nether_brick": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/ship_helm": {
+    "criteria": {
+      "has_gold": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/stone": {
+    "criteria": {
+      "has_stone": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/mangrove": {
+    "criteria": {
+      "has_mangrove": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/warped": {
+    "criteria": {
+      "has_warped": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/prismarine": {
+    "criteria": {
+      "has_qq": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/bamboo": {
+    "criteria": {
+      "has_bamboo": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "vs_eureka:recipes/balloon_leather": {
+    "criteria": {
+      "has_leather": "2025-05-10 00:20:22 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
